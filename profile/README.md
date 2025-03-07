@@ -1,6 +1,6 @@
 # Learn Ez - Your AI-Powered Learning Assistant
 
-![Learn Ez Banner](https://github.com/trapilot/.github/blob/main/profile/banner.png)
+![Learn Ez Banner](https://github.com/learn-ez/.github/blob/main/profile/banner.png)
 
 ## 📚 About Learn Ez
 
